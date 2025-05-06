@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-[#f6eed0] text-green-950
+}
+
+.container {
+  @apply py-15 mb-20
+}
