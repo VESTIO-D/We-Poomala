@@ -1,9 +1,9 @@
 @import "tailwindcss";
 
 body {
-  @apply bg-[#f6eed0] text-green-950
+  @apply bg-zinc-50 text-green-950
 }
 
 .container {
-  @apply py-15 mb-20
+  @apply py-15 mb-20 flex justify-center items-center
 }
