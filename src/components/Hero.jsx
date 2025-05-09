@@ -5,7 +5,7 @@ export default function Hero() {
     >
               <img src="/Hero.png" className="object-cover w-full " alt="" />
 
-      <div className="container bg-opacity-50">
+      <div className="container py-15 bg-opacity-50">
 
         <div className="grid gap-10 lg:gap-20 max-w-sm sm:max-w-xl lg:max-w-5xl lg:px-10">
 
