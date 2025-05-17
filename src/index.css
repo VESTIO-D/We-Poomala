@@ -1,9 +1,23 @@
 @import "tailwindcss";
 
 body {
-  @apply bg-zinc-50 text-green-950 m-0 p-0
+  @apply bg-[#FBFBFB] text-green-950 m-0 p-0
 }
 
 .container {
   @apply  mb-20 flex justify-center items-center
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #1f2937;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
 }
