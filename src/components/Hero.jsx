@@ -7,7 +7,7 @@ export default function Hero() {
 
       <div className="container py-15 bg-opacity-50">
 
-        <div className="grid gap-10 lg:gap-20 max-w-sm sm:max-w-xl lg:max-w-5xl lg:px-2 font-serif">
+        <div className="grid gap-10 lg:gap-20 max-w-sm sm:max-w-xl lg:max-w-7xl lg:px-2 font-serif">
 
           <div className="relative text-center px-4 py-2">
           <h1 className="text-5xl md:text-6xl font-bold mb-4">Welcome to We Poomala</h1>

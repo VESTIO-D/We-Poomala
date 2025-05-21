@@ -8,7 +8,7 @@ const Resorts = () => {
 
         <div className="container">
 
-            <div className="grid max-w-sm sm:max-w-xl lg:max-w-5xl">
+            <div className="grid max-w-sm sm:max-w-xl lg:max-w-7xl">
                 <ResortCards />
             </div>
         </div>
